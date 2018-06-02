@@ -1,8 +1,5 @@
 ﻿using PluralSight.Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace PluralSight.ViewModels
 {
